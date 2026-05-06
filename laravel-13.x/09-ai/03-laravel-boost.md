@@ -3,6 +3,10 @@ title: Laravel Boost
 description: Accelerates AI-assisted development by providing essential guidelines and agent skills for building high-quality Laravel applications.
 url: https://laravel.com/docs/13.x/boost
 tags: [ai]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Boost

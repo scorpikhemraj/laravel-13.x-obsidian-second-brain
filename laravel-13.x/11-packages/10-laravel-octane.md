@@ -3,6 +3,10 @@ title: Laravel Octane
 description: High-performance application server supporting FrankenPHP, RoadRunner, and Swoole
 url: https://laravel.com/docs/13.x/octane
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Octane

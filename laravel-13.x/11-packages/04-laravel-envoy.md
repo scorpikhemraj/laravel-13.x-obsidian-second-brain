@@ -3,6 +3,10 @@ title: Laravel Envoy
 description: A tool for executing common tasks you run on your remote servers.
 url: https://laravel.com/docs/13.x/envoy
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 #Laravel Envoy

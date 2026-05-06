@@ -3,6 +3,10 @@ title: Queues
 description: Guide to Laravel queue system for processing background jobs
 url: https://laravel.com/docs/13.x/queues
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Queues

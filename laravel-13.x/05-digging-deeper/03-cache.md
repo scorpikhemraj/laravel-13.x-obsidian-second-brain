@@ -3,6 +3,10 @@ title: Cache
 description: Caching API for improved application performance with multiple backend drivers
 url: https://laravel.com/docs/13.x/cache
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Cache

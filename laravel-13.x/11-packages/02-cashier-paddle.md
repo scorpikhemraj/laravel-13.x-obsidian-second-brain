@@ -3,6 +3,10 @@ title: Laravel Cashier (Paddle)
 description: Provides an expressive, fluent interface to Paddle's subscription billing services.
 url: https://laravel.com/docs/13.x/cashier-paddle
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 #Laravel Cashier (Paddle)

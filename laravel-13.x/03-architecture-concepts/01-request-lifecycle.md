@@ -3,6 +3,10 @@ title: Request Lifecycle
 description: Understand how Laravel handles HTTP requests from entry point to response
 url: https://laravel.com/docs/13.x/lifecycle
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Request Lifecycle

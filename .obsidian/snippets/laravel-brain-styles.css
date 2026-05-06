@@ -1,0 +1,47 @@
+/* 🧠 Laravel 13.x Obsidian Brain - Category Styling */
+
+/* 1. Framework (Blue) */
+.framework, .color-blue {
+    --text-accent: #2196F3;
+    --title-color: #2196F3;
+}
+.framework h1, .color-blue h1 {
+    color: #2196F3 !important;
+    border-bottom: 2px solid #2196F333;
+}
+
+/* 2. Logic (Orange) */
+.logic, .color-orange {
+    --text-accent: #FF9800;
+    --title-color: #FF9800;
+}
+.logic h1, .color-orange h1 {
+    color: #FF9800 !important;
+    border-bottom: 2px solid #FF980033;
+}
+
+/* 3. Data (Green) */
+.data, .color-green {
+    --text-accent: #4CAF50;
+    --title-color: #4CAF50;
+}
+.data h1, .color-green h1 {
+    color: #4CAF50 !important;
+    border-bottom: 2px solid #4CAF5033;
+}
+
+/* 4. AI / Packages (Purple) */
+.ai, .color-purple {
+    --text-accent: #9C27B0;
+    --title-color: #9C27B0;
+}
+.ai h1, .color-purple h1 {
+    color: #9C27B0 !important;
+    border-bottom: 2px solid #9C27B033;
+}
+
+/* Metadata property styling */
+.metadata-property[data-property-key="color"] .metadata-property-value {
+    font-weight: bold;
+    text-transform: uppercase;
+}

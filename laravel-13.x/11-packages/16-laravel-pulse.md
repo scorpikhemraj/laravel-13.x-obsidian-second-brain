@@ -3,6 +3,10 @@ title: Laravel Pulse
 description: Application performance monitoring and insights dashboard
 url: https://laravel.com/docs/13.x/pulse
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Pulse

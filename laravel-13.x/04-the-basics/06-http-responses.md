@@ -3,6 +3,10 @@ title: HTTP Responses
 description: Create and customize HTTP responses in Laravel
 url: https://laravel.com/docs/13.x/responses
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # HTTP Responses

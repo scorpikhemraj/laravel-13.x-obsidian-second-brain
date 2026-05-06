@@ -3,6 +3,10 @@ title: Frontend
 description: Learn about Laravel frontend development options including Blade, Livewire, and Inertia
 url: https://laravel.com/docs/13.x/frontend
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Frontend

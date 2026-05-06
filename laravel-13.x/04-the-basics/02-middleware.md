@@ -3,6 +3,10 @@ title: Middleware
 description: Filter and inspect HTTP requests entering your application
 url: https://laravel.com/docs/13.x/middleware
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Middleware

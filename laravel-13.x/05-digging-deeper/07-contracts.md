@@ -3,6 +3,10 @@ title: Contracts
 description: A set of interfaces defining core services provided by the Laravel framework.
 url: https://laravel.com/docs/13.x/contracts
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Contracts

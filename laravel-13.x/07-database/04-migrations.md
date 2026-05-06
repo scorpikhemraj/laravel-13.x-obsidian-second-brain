@@ -3,6 +3,10 @@ title: Database: Migrations
 description: Learn how to use Laravel migrations for database version control
 url: https://laravel.com/docs/13.x/migrations
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Database: Migrations

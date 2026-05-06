@@ -3,6 +3,10 @@ title: Starter Kits
 description: Learn about Laravel application starter kits for quick setup
 url: https://laravel.com/docs/13.x/starter-kits
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Starter Kits

@@ -3,6 +3,10 @@ title: Laravel Pint
 description: Opinionated PHP code style fixer built on PHP CS Fixer
 url: https://laravel.com/docs/13.x/pint
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Pint

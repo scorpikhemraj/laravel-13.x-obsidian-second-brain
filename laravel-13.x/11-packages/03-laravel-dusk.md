@@ -3,6 +3,10 @@ title: Laravel Dusk
 description: Provides an expressive, easy-to-use browser automation and testing API.
 url: https://laravel.com/docs/13.x/dusk
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 #Laravel Dusk

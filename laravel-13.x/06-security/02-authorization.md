@@ -3,6 +3,10 @@ title: Authorization
 description: Learn how to authorize user actions using gates and policies
 url: https://laravel.com/docs/13.x/authorization
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Authorization

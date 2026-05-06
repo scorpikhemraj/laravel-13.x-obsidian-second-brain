@@ -3,6 +3,10 @@ title: Laravel MCP
 description: Provides a simple and elegant way for AI clients to interact with your Laravel application through the Model Context Protocol.
 url: https://laravel.com/docs/13.x/mcp
 tags: [ai]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel MCP

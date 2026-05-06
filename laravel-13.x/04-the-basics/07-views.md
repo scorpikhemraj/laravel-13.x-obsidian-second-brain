@@ -3,6 +3,10 @@ title: Views
 description: Create and manage view templates in Laravel
 url: https://laravel.com/docs/13.x/views
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Views

@@ -3,6 +3,10 @@ title: Localization
 description: Laravel Localization documentation - retrieving strings in various languages
 url: https://laravel.com/docs/13.x/localization
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Localization

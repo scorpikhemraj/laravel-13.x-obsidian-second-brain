@@ -3,6 +3,10 @@ title: Testing: Getting Started
 description: Introduction to Laravel testing with Pest and PHPUnit, creating and running tests
 url: https://laravel.com/docs/13.x/testing
 tags: [testing]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Testing: Getting Started

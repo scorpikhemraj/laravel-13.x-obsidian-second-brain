@@ -3,6 +3,10 @@ title: Broadcasting
 description: Real-time event broadcasting using WebSockets in Laravel applications
 url: https://laravel.com/docs/13.x/broadcasting
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Broadcasting

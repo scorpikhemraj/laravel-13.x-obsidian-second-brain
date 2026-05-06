@@ -3,6 +3,10 @@ title: Directory Structure
 description: Learn about Laravel's application directory structure
 url: https://laravel.com/docs/13.x/structure
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Directory Structure

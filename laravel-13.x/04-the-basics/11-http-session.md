@@ -3,6 +3,10 @@ title: HTTP Session
 description: Managing user sessions and data persistence across HTTP requests in Laravel
 url: https://laravel.com/docs/13.x/session
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # HTTP Session

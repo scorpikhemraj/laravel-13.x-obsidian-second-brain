@@ -3,6 +3,10 @@ title: Upgrade Guide
 description: Guide for upgrading Laravel applications from version 12.x to 13.0
 url: https://laravel.com/docs/13.x/upgrade
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Upgrade Guide

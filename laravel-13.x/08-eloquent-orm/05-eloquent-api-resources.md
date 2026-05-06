@@ -3,6 +3,10 @@ title: Eloquent: API Resources
 description: Learn how to transform Eloquent models and collections into JSON responses using API Resources.
 url: https://laravel.com/docs/13.x/eloquent-resources
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Eloquent: API Resources

@@ -3,6 +3,10 @@ title: Encryption
 description: Learn how to encrypt and decrypt data in Laravel
 url: https://laravel.com/docs/13.x/encryption
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Encryption

@@ -3,6 +3,10 @@ title: Service Providers
 description: The central place of all Laravel application bootstrapping
 url: https://laravel.com/docs/13.x/providers
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Service Providers

@@ -3,6 +3,10 @@ title: Service Container
 description: A powerful tool for managing class dependencies and performing dependency injection
 url: https://laravel.com/docs/13.x/container
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Service Container

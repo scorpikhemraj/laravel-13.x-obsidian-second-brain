@@ -3,6 +3,10 @@ title: Processes
 description: Invoke external processes from your Laravel application
 url: https://laravel.com/docs/13.x/processes
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Processes

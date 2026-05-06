@@ -3,6 +3,10 @@ title: Database: Getting Started
 description: Learn how to configure databases and run queries in Laravel
 url: https://laravel.com/docs/13.x/database
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Database: Getting Started

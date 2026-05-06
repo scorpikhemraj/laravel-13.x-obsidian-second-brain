@@ -3,6 +3,10 @@ title: Database: Pagination
 description: Learn how to paginate database results in Laravel
 url: https://laravel.com/docs/13.x/pagination
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Database: Pagination

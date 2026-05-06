@@ -3,6 +3,10 @@ title: Eloquent: Serialization
 description: Learn how to serialize Eloquent models and collections to arrays and JSON.
 url: https://laravel.com/docs/13.x/eloquent-serialization
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Eloquent: Serialization

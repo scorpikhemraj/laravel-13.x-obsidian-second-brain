@@ -3,6 +3,10 @@ title: Laravel Homestead
 description: An official, pre-packaged Vagrant box that provides a wonderful development environment.
 url: https://laravel.com/docs/13.x/homestead
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 #Laravel Homestead

@@ -3,6 +3,10 @@ title: Laravel Sanctum
 description: Featherweight authentication system for SPAs and APIs
 url: https://laravel.com/docs/13.x/sanctum
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Sanctum

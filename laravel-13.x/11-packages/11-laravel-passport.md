@@ -3,6 +3,10 @@ title: Laravel Passport
 description: Full OAuth2 server implementation for Laravel applications
 url: https://laravel.com/docs/13.x/passport
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Passport

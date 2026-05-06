@@ -3,6 +3,10 @@ title: File Storage
 description: Laravel File Storage documentation - filesystem abstraction using Flysystem
 url: https://laravel.com/docs/13.x/filesystem
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # File Storage

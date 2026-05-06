@@ -3,6 +3,10 @@ title: Database: Query Builder
 description: Learn how to use Laravel's fluent query builder for database operations
 url: https://laravel.com/docs/13.x/queries
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Database: Query Builder

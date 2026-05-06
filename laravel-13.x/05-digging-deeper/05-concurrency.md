@@ -3,6 +3,10 @@ title: Concurrency
 description: Execute closures concurrently in Laravel using the Concurrency facade.
 url: https://laravel.com/docs/13.x/concurrency
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Concurrency

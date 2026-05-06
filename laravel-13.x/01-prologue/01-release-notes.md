@@ -3,6 +3,10 @@ title: Release Notes
 description: Laravel 13 release notes including versioning scheme, support policy, and new features
 url: https://laravel.com/docs/13.x/releases
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Release Notes

@@ -3,6 +3,10 @@ title: Eloquent: Factories
 description: Learn how to use factories to create model instances for testing and database seeding.
 url: https://laravel.com/docs/13.x/eloquent-factories
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Eloquent: Factories

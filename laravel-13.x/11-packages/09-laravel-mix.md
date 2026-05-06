@@ -3,6 +3,10 @@ title: Laravel Mix
 description: Legacy package for webpack-based asset compilation, superseded by Vite
 url: https://laravel.com/docs/13.x/mix
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Mix

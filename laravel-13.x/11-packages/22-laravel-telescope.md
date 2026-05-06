@@ -3,6 +3,10 @@ title: Laravel Telescope
 description: Debugging and monitoring tool for Laravel applications
 url: https://laravel.com/docs/13.x/telescope
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Telescope

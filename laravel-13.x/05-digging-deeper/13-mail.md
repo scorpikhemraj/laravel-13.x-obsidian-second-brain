@@ -3,6 +3,10 @@ title: Mail
 description: Laravel Mail documentation - clean email API powered by Symfony Mailer
 url: https://laravel.com/docs/13.x/mail
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Mail

@@ -3,6 +3,10 @@ title: MongoDB
 description: Learn how to use MongoDB with Laravel
 url: https://laravel.com/docs/13.x/mongodb
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # MongoDB

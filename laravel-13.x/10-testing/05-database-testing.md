@@ -3,6 +3,10 @@ title: Database Testing
 description: Testing database-driven applications with Laravel, using model factories and seeders
 url: https://laravel.com/docs/13.x/database-testing
 tags: [testing]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Database Testing

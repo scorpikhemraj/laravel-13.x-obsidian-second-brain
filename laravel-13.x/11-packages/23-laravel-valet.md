@@ -3,6 +3,10 @@ title: Laravel Valet
 description: macOS development environment for Laravel applications
 url: https://laravel.com/docs/13.x/valet
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Valet

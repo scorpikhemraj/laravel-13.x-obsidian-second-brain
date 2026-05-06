@@ -3,6 +3,10 @@ title: Rate Limiting
 description: Guide to Laravel's rate limiting abstraction
 url: https://laravel.com/docs/13.x/rate-limiting
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Rate Limiting

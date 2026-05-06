@@ -3,6 +3,10 @@ title: Laravel Socialite
 description: OAuth authentication with social media providers
 url: https://laravel.com/docs/13.x/socialite
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Socialite

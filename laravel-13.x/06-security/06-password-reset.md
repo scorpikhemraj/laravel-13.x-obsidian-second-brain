@@ -3,6 +3,10 @@ title: Password Reset
 description: Learn how to implement password reset functionality in Laravel
 url: https://laravel.com/docs/13.x/passwords
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Resetting Passwords

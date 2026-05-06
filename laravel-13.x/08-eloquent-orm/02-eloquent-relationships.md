@@ -3,6 +3,10 @@ title: Eloquent: Relationships
 description: Learn how to define and work with database relationships in Laravel Eloquent ORM.
 url: https://laravel.com/docs/13.x/eloquent-relationships
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Eloquent: Relationships

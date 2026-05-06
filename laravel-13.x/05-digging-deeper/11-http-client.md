@@ -3,6 +3,10 @@ title: HTTP Client
 description: Laravel HTTP Client documentation - expressive API around Guzzle HTTP client
 url: https://laravel.com/docs/13.x/http-client
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # HTTP Client

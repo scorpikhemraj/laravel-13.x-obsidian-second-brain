@@ -3,6 +3,10 @@ title: Installation
 description: Learn how to install and set up Laravel applications
 url: https://laravel.com/docs/13.x/installation
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Installation

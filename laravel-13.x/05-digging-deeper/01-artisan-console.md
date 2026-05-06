@@ -3,6 +3,10 @@ title: Artisan Console
 description: Laravel command-line interface for building and managing applications
 url: https://laravel.com/docs/13.x/artisan
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Artisan Console

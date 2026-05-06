@@ -3,6 +3,10 @@ title: Laravel Reverb
 description: Real-time WebSocket communication for Laravel applications
 url: https://laravel.com/docs/13.x/reverb
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Reverb

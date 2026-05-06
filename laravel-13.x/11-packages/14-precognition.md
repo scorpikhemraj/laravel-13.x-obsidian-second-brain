@@ -3,6 +3,10 @@ title: Precognition
 description: Live validation for frontend JavaScript applications using backend validation rules
 url: https://laravel.com/docs/13.x/precognition
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Precognition

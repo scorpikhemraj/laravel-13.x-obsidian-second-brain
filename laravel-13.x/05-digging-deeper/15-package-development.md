@@ -3,6 +3,10 @@ title: Package Development
 description: Guide to developing Laravel packages including service providers, resources, and publishing
 url: https://laravel.com/docs/13.x/packages
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Package Development

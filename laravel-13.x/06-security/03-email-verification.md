@@ -3,6 +3,10 @@ title: Email Verification
 description: Learn how to implement email verification in Laravel
 url: https://laravel.com/docs/13.x/verification
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Email Verification

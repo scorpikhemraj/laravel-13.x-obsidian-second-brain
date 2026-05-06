@@ -3,6 +3,10 @@ title: Laravel Scout
 description: Driver-based full-text search for Eloquent models
 url: https://laravel.com/docs/13.x/scout
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Scout

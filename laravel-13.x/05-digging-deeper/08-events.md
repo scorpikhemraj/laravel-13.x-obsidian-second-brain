@@ -3,6 +3,10 @@ title: Events
 description: Laravel Event documentation - observer pattern implementation for subscribing and listening to application events
 url: https://laravel.com/docs/13.x/events
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Events

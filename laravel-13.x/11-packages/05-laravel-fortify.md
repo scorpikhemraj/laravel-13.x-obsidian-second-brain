@@ -3,6 +3,10 @@ title: Laravel Fortify
 description: A frontend agnostic authentication backend implementation for Laravel.
 url: https://laravel.com/docs/13.x/fortify
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 #Laravel Fortify

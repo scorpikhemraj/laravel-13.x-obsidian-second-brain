@@ -3,6 +3,10 @@ title: Controllers
 description: Organize request handling logic into controller classes
 url: https://laravel.com/docs/13.x/controllers
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Controllers

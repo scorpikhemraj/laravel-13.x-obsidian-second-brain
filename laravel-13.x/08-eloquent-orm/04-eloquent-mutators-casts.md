@@ -3,6 +3,10 @@ title: Eloquent: Mutators & Casting
 description: Learn how to use accessors, mutators, and attribute casting to transform Eloquent attribute values.
 url: https://laravel.com/docs/13.x/eloquent-mutators
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Eloquent: Mutators & Casting

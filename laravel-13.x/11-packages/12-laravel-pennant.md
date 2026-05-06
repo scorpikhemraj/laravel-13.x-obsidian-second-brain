@@ -3,6 +3,10 @@ title: Laravel Pennant
 description: Lightweight feature flag package for rolling out features progressively
 url: https://laravel.com/docs/13.x/pennant
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Pennant

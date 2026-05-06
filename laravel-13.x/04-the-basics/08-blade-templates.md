@@ -3,6 +3,10 @@ title: Blade Templates
 description: Laravel's templating engine for rendering views with components, directives, and layout control
 url: https://laravel.com/docs/13.x/blade
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Blade Templates

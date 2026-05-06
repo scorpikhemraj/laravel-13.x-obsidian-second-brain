@@ -3,6 +3,10 @@ title: AI Assisted Development
 description: Learn how Laravel integrates with AI coding agents and Laravel Boost
 url: https://laravel.com/docs/13.x/ai
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # AI Assisted Development

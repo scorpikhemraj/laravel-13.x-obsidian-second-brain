@@ -3,6 +3,10 @@ title: Logging
 description: Configuring and using Laravel's logging system with channels, stacks, and Monolog customization
 url: https://laravel.com/docs/13.x/logging
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Logging

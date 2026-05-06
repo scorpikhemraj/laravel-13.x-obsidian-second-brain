@@ -3,6 +3,10 @@ title: Task Scheduling
 description: Guide to Laravel's task scheduler for recurring jobs
 url: https://laravel.com/docs/13.x/scheduling
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Task Scheduling

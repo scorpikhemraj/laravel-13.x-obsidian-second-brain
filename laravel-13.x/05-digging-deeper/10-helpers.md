@@ -3,6 +3,10 @@ title: Helpers
 description: Laravel Helpers documentation - global helper PHP functions included with Laravel
 url: https://laravel.com/docs/13.x/helpers
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Helpers

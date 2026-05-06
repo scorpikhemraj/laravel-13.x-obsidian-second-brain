@@ -3,6 +3,10 @@ title: CSRF Protection
 description: Protect your application from cross-site request forgery attacks
 url: https://laravel.com/docs/13.x/csrf
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # CSRF Protection

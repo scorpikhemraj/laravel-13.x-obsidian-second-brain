@@ -3,6 +3,10 @@ title: Collections
 description: A fluent, convenient wrapper for working with arrays of data in Laravel.
 url: https://laravel.com/docs/13.x/collections
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Collections

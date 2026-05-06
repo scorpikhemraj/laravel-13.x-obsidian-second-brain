@@ -3,6 +3,10 @@ title: Configuration
 description: Learn about Laravel configuration, environment variables, and application settings
 url: https://laravel.com/docs/13.x/configuration
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Configuration

@@ -3,6 +3,10 @@ title: Laravel Sail
 description: Docker-based development environment for Laravel
 url: https://laravel.com/docs/13.x/sail
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Sail

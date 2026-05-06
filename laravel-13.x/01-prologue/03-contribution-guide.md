@@ -3,6 +3,10 @@ title: Contribution Guide
 description: Guide for contributing to Laravel framework development
 url: https://laravel.com/docs/13.x/contributions
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Contribution Guide

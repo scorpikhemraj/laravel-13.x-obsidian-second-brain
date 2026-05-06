@@ -3,6 +3,10 @@ title: Routing
 description: Define application routes and handle URL navigation in Laravel
 url: https://laravel.com/docs/13.x/routing
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Routing

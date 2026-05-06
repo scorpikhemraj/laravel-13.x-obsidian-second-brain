@@ -3,6 +3,10 @@ title: Console Tests
 description: Testing Laravel console commands and Artisan commands
 url: https://laravel.com/docs/13.x/console-tests
 tags: [testing]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Console Tests

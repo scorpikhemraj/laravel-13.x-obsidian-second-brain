@@ -3,6 +3,10 @@ title: Deployment
 description: Learn how to deploy Laravel applications to production servers
 url: https://laravel.com/docs/13.x/deployment
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Deployment

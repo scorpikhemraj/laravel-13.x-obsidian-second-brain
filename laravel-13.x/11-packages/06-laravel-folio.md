@@ -3,6 +3,10 @@ title: Laravel Folio
 description: A powerful page based router designed to simplify routing in Laravel applications.
 url: https://laravel.com/docs/13.x/folio
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 #Laravel Folio

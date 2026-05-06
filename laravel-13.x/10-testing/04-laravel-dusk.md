@@ -3,6 +3,10 @@ title: Laravel Dusk
 description: Browser automation and testing with Laravel Dusk using ChromeDriver
 url: https://laravel.com/docs/13.x/dusk
 tags: [testing]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel Dusk

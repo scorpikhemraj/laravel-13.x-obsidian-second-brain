@@ -3,6 +3,10 @@ title: Authentication
 description: Learn how to authenticate users in your Laravel application
 url: https://laravel.com/docs/13.x/authentication
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Authentication

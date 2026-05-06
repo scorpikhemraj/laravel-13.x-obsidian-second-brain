@@ -3,6 +3,10 @@ title: Database: Seeding
 description: Learn how to seed your database with test data in Laravel
 url: https://laravel.com/docs/13.x/seeding
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Database: Seeding

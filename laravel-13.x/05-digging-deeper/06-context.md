@@ -3,6 +3,10 @@ title: Context
 description: Capture, retrieve, and share information throughout requests, jobs, and commands in Laravel.
 url: https://laravel.com/docs/13.x/context
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Context

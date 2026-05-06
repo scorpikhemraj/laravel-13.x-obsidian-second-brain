@@ -3,6 +3,10 @@ title: Error Handling
 description: Handling and reporting exceptions in Laravel applications
 url: https://laravel.com/docs/13.x/errors
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Error Handling

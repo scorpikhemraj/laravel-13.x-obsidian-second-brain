@@ -3,6 +3,10 @@ title: Validation
 description: Validating incoming data in Laravel using rules, form requests, and custom validators
 url: https://laravel.com/docs/13.x/validation
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Validation

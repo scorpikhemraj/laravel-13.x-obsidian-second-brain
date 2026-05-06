@@ -3,6 +3,10 @@ title: Search
 description: Guide to Laravel's search features including full-text, semantic, and Scout
 url: https://laravel.com/docs/13.x/search
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Search

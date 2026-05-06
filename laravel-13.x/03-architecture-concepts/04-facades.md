@@ -3,6 +3,10 @@ title: Facades
 description: Provide a static interface to classes available in the service container
 url: https://laravel.com/docs/13.x/facades
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Facades

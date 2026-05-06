@@ -3,6 +3,10 @@ title: HTTP Tests
 description: Testing HTTP requests and responses in Laravel applications
 url: https://laravel.com/docs/13.x/http-tests
 tags: [testing]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # HTTP Tests

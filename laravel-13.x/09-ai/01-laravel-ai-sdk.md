@@ -3,6 +3,10 @@ title: Laravel AI SDK
 description: A unified, expressive API for interacting with AI providers with support for agents, images, audio, embeddings, and more.
 url: https://laravel.com/docs/13.x/ai-sdk
 tags: [ai]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Laravel AI SDK

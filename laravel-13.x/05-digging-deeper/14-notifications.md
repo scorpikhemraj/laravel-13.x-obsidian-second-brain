@@ -3,6 +3,10 @@ title: Notifications
 description: Laravel Notifications documentation - send notifications across various delivery channels
 url: https://laravel.com/docs/13.x/notifications
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Notifications

@@ -3,6 +3,10 @@ title: HTTP Requests
 description: Access and handle incoming HTTP request data in Laravel
 url: https://laravel.com/docs/13.x/requests
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # HTTP Requests

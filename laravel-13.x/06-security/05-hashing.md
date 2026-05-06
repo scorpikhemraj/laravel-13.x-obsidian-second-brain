@@ -3,6 +3,10 @@ title: Hashing
 description: Learn how to hash passwords securely in Laravel
 url: https://laravel.com/docs/13.x/hashing
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Hashing

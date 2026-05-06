@@ -3,6 +3,10 @@ title: Eloquent: Collections
 description: Learn how to work with Eloquent model collections in Laravel for handling groups of models.
 url: https://laravel.com/docs/13.x/eloquent-collections
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Eloquent: Collections

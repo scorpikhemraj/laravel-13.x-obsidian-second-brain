@@ -3,6 +3,10 @@ title: Prompts
 description: Beautiful and user-friendly CLI forms with browser-like features
 url: https://laravel.com/docs/13.x/prompts
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Prompts

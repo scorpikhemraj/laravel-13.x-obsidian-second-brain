@@ -3,6 +3,10 @@ title: Laravel Horizon
 description: Provides a beautiful dashboard and code-driven configuration for Laravel Redis queues.
 url: https://laravel.com/docs/13.x/horizon
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 #Laravel Horizon

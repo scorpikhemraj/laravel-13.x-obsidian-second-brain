@@ -3,6 +3,10 @@ title: Asset Bundling (Vite)
 description: Using Vite for bundling JavaScript and CSS assets in Laravel applications
 url: https://laravel.com/docs/13.x/vite
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # Asset Bundling (Vite)

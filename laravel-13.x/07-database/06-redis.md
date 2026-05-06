@@ -3,6 +3,10 @@ title: Redis
 description: Learn how to use Redis for caching and sessions in Laravel
 url: https://laravel.com/docs/13.x/redis
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Redis

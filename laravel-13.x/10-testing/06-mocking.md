@@ -3,6 +3,10 @@ title: Mocking
 description: Mocking objects, facades, and time manipulation in Laravel tests
 url: https://laravel.com/docs/13.x/mocking
 tags: [testing]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 # Mocking

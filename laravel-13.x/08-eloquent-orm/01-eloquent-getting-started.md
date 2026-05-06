@@ -3,6 +3,10 @@ title: Eloquent: Getting Started
 description: Introduction to Laravel Eloquent ORM - the object-relational mapper that makes interacting with databases enjoyable.
 url: https://laravel.com/docs/13.x/eloquent
 tags: [data]
+cssclasses:
+  - data
+  - color-green
+color: green
 ---
 
 # Eloquent: Getting Started

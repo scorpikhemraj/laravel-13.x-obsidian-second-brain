@@ -3,6 +3,10 @@ title: Laravel Cashier (Stripe)
 description: Provides an expressive, fluent interface to Stripe's subscription billing services.
 url: https://laravel.com/docs/13.x/billing
 tags: [packages]
+cssclasses:
+  - ai
+  - color-purple
+color: purple
 ---
 
 #Laravel Cashier (Stripe)

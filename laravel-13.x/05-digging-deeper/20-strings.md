@@ -3,6 +3,10 @@ title: Strings
 description: Guide to Laravel's string manipulation functions and fluent strings
 url: https://laravel.com/docs/13.x/strings
 tags: [logic]
+cssclasses:
+  - logic
+  - color-orange
+color: orange
 ---
 
 # Strings

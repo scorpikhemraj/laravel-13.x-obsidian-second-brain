@@ -114,6 +114,29 @@ If you use plugins like *Smart Connections* or *Text Generator*, this vault prov
 
 ---
 
+## 🤖 Agent-Driven Product Development
+
+This vault includes a pre-configured **Laravel Development System** powered by 22 specialized AI agents. This system is designed to take a product idea from concept to production-ready code.
+
+### 📂 Folder Structure
+- **[[.skills/|📁 .skills/]]**: High-level capabilities (e.g., `laravel-architecture`, `laravel-backend`) that coordinate specific agents.
+- **[[.agents/|📁 .agents/]]**: Specialized AI worker personas with defined roles, tools, and workflows.
+
+### 🚀 Product Creation Workflow
+The agents follow a 5-step chain to build features or entire products:
+
+| Step | Phase | Key Agents Involved |
+| :--- | :--- | :--- |
+| **1** | **Planning** | `product-manager`, `system-architect` |
+| **2** | **Logic** | `database-engineer`, `backend-developer` |
+| **3** | **UI/UX** | `frontend-developer` |
+| **4** | **Stability** | `security-engineer`, `test-engineer` |
+| **5** | **Delivery** | `code-reviewer`, `devops-engineer`, `docs-writer` |
+
+For more details on how to trigger this system, refer to the root **[[SKILL.md]]**.
+
+---
+
 ## 📚 Table of Contents
 
 <details>
@@ -161,6 +184,11 @@ If you use plugins like *Smart Connections* or *Text Generator*, this vault prov
 - [Laravel AI SDK](./laravel-13.x/09-ai/01-laravel-ai-sdk.md)
 - [Laravel MCP](./laravel-13.x/09-ai/02-laravel-mcp.md)
 - [Laravel Boost](./laravel-13.x/09-ai/03-laravel-boost.md)
+
+### 🤖 AI Agents & Skills
+- **[[SKILL.md|Master Development System]]**
+- **[[.skills/|Browse Skills]]**
+- **[[.agents/|Browse Agents]]**
 
 </details>
 

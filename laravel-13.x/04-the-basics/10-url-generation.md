@@ -3,6 +3,10 @@ title: URL Generation
 description: Generating URLs in Laravel using helpers, named routes, controller actions, and fluent URI objects
 url: https://laravel.com/docs/13.x/urls
 tags: [framework]
+cssclasses:
+  - framework
+  - color-blue
+color: blue
 ---
 
 # URL Generation
